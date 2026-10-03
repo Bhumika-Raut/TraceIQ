@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+.venv/
+env/
+venv/
+
+# Production build output
+dist/
+build/
+.output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Vercel
+.vercel/
+
+# Environment & IDE
+.env
+.env.local
+.DS_Store
+.vscode/
+.idea/
